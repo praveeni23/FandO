@@ -45,17 +45,7 @@ To build a predictive model that classifies whether the NIFTY 50 index will move
 
 ---
 
-## 📁 Folder Structure
 
-nifty50-prediction/
-├── data/ # optional
-├── src/
-│ └── nifty50_prediction.py
-├── README.md
-└── requirements.txt # (create with pip freeze > requirements.txt)
-
-yaml
-Copy code
 
 ---
 
